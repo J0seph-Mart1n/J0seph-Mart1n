@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+<img align="center" alt="Coding" width="400" src="giphy.gif">
 <h1 align="center">Hi 👋, I'm Joseph Martin</h1>
 <h3 align="center">A passionate Python developer from India</h3>
 <img align="right" alt="Coding" width="400" src="giphy.gif">
@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **jmkl0987@gmail.com**
 
-- ⚡ Fun fact **I'm an introvert**
+- ⚡ Fun fact **I'm a leftist**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
