@@ -1,4 +1,6 @@
-<img align="center" alt="Coding" width="400" src="python-2.gif">
+<p align="center">
+  <img src="python-2.gif" width="550" height='370' title="hover text">
+</p>
 <h1 align="center">Hi 👋, I'm Joseph Martin</h1>
 <h3 align="center">A passionate Python developer from India</h3>
 <img align="right" alt="Coding" width="400" src="giphy.gif">
