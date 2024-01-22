@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **jmkl0987@gmail.com**
 
-- ⚡ Fun fact **I'm a leftist**
+- ⚡ Fun fact **I'm a coder**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
