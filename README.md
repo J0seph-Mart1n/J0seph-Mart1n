@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Joseph Martin</h1>
 <h3 align="center">A passionate Python developer from India</h3>
 <img align="right" alt="Coding" width="400" src="giphy.gif">
-- 🌱 I’m currently learning **Python, ML, DS**
+- 🌱 I’m currently learning **Python, ML, DS and Flask**
 
 - 💬 Ask me about **Python**
 
