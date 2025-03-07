@@ -2,9 +2,13 @@
 <h1 align="center">Hi 👋, I'm Joseph Martin</h1>
 <h3 align="center">A Python developer from India, Pune</h3>
 <img align="right" alt="Coding" width="400" src="giphy.gif">
-- 🌱 I’m currently learning **Python, ML, DS and Flask**
+- 🌱 I’m currently learning Python, ML, DS and React Native
 
 - 💬 Ask me about **Python**
+
+- Working on a project called Pasta.ai go check it out in my repo
+
+- Interested in Generative AI
 
 - 📫 How to reach me **jmkl0987@gmail.com**
 
