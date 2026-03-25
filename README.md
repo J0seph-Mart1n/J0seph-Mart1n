@@ -2,17 +2,17 @@
 <h1 align="center">Hi 👋, I'm Joseph Martin</h1>
 <h3 align="center">A Python developer from India, Pune</h3>
 <img align="right" alt="Coding" width="400" src="giphy.gif">
-- 🌱 I’m currently learning Python, ML, DS and React Native
+- 🌱 I’m currently learning Python, FastAPI, Docker and React Native
 
 - 💬 Ask me about **Python**
 
-- Working on a project called Pasta.ai go check it out in my repo
+- Working on a project NutriScan go check it out in my repo
 
-- Interested in Generative AI
+- Interested in Generative AI, Mobile Development and Web Development
+
+- Open to Explore new Technologies
 
 - 📫 How to reach me **jmkl0987@gmail.com**
-
-- ⚡ Fun fact **I'm a bass singer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
