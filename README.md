@@ -1,10 +1,10 @@
 
 <h1 align="center">Hi 👋, I'm Joseph Martin</h1>
-<h3 align="center">A Python developer from India, Pune</h3>
+<h3 align="center">A Software developer from India, Pune</h3>
 <img align="right" alt="Coding" width="400" src="giphy.gif">
-- 🌱 I’m currently learning Python, FastAPI, Docker and React Native
+- 🌱 I’m currently learning Python, FastAPI, Docker, React and Next.js
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **Python**, **React**
 
 - Working on a project NutriScan go check it out in my repo
 
