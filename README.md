@@ -4,9 +4,9 @@
 <img align="right" alt="Coding" width="400" src="giphy.gif">
 - 🌱 I’m currently learning Python, FastAPI, Docker, React and Next.js
 
-- 💬 Ask me about **Python**, **React**
+- 💬 Ask me about **Python**, **React**, **React Native**
 
-- Working on a project NutriScan go check it out in my repo
+- Working on a project Secret Notes go check it out in my repo
 
 - Interested in Generative AI, Mobile Development and Web Development
 
